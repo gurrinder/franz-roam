@@ -1,0 +1,13 @@
+{
+  "id": "roamresearch",
+  "name": "roamresearch",
+  "version": "1.0.0",
+  "description": "Roam Research",
+  "main": "index.js",
+  "author": "Gurrinder Kharbanda <gurrinder@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/gurrinder/franz-roam",
+  "config": {
+    "serviceURL": "https://roamresearch.com/#/app"
+  }
+}
